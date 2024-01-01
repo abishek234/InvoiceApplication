@@ -8,7 +8,8 @@
   "strict": true,
  "forceConsistentCasingInFileNames": true,
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "build": "npm i"
   },
   "keywords": [],
   "author": "Panshak Solomon",
